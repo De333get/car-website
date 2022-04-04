@@ -1,2 +1,2 @@
 # car-website
-https://carweb.github.io/rsschool-cv/
+https://De333get.github.io/car-website/
